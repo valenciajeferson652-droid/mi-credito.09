@@ -1,0 +1,13 @@
+MI CRÉDITO – DIRECTORIO EN PANTALLA PRINCIPAL
+
+Se agregó el acceso DIRECTORIO directamente en la pantalla principal, junto a los demás accesos (Ingresos, Egresos, Historial, Info, etc.).
+
+Pulsa DIRECTORIO para ver los clientes de la cartera seleccionada. Luego pulsa un cliente para abrir su ficha e historial.
+
+Instalación:
+1. Haz una copia de seguridad de tu aplicación actual.
+2. Extrae todo el contenido de este ZIP en una carpeta nueva.
+3. Abre la aplicación como lo haces habitualmente.
+4. En la pantalla principal encontrarás el botón DIRECTORIO.
+
+Los datos siguen guardándose en el almacenamiento local del navegador. Usa el mismo navegador y dirección habitual para conservar el acceso a tus datos.
